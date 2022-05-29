@@ -1,0 +1,2 @@
+# Face-Recognition-Criminal-Database-Django-Project
+This project is all about how one can store criminal records in database and one can search the criminal with name or by using face recognition technique through a CCTV camera footage , realtime video or an image of the criminal . One can also perform operations like creating a new criminal database , reading all the database , updating information of a particular criminal , deleting a criminal record completely (CRUD operations).
